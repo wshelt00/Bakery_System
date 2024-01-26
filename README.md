@@ -1,1 +1,2 @@
 # Bakery_System
+An application that lets the user add or remove items from a bakery database, along with the ability to add or remove any customers from the database. The application lets the user check any order that has been made, as well as place an order for any new or previous items that are needed to fill any inventory. Orders can be made with the application along with payment selection and displays any necessary information in regards to inventory and how much the customer has left to pay for the order.
